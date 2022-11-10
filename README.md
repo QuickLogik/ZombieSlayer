@@ -1,4 +1,4 @@
-# ZombieSlayer Je suis le Boss des Zombie Slayer.
+# ZombieSlayer Bienvenu Je suis le Boss.
 
 # Vous voulez faire partie de mon organisation et m'aider à la faire croître vous este le bienvenue !
 
